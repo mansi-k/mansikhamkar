@@ -116,6 +116,7 @@ a.btn-cta-primary:hover, .btn-cta-primary:hover {
   display: inline-block;
   color: #fff;
   text-align: center;
+  border-radius: 50%;
 }
 
 .header .profile-content .social a:hover {
