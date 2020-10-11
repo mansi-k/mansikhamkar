@@ -441,6 +441,6 @@ body {
   scroll-margin-top: 60px;
 }
 
-#aboutme p, #experience p {
+#aboutme p, #experience p, #keyprojects p.mb-2 {
   text-align: justify;
 }
