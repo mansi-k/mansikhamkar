@@ -376,7 +376,7 @@ a.btn-cta-primary:hover, .btn-cta-primary:hover {
 }
 
 .footleft {
-  padding-left: 50px;
+  padding: 0 6% 20px 6%;
 }
 
 .footer h3 {
