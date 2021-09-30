@@ -365,7 +365,7 @@ a.btn-cta-primary:hover, .btn-cta-primary:hover {
   box-shadow:none; 
 }
 
-#keyprojects .techtag {
+.techtag {
   display: inline-block;
   padding: 3px;
   border: 1px solid #9900cc;
@@ -373,6 +373,10 @@ a.btn-cta-primary:hover, .btn-cta-primary:hover {
   opacity: 0.8;
   font-size: 12px;
   margin:0 0 1px 0;
+}
+
+#skills .techtag {
+  border: 1px solid #999 !important;
 }
 
 .footer {
@@ -525,4 +529,8 @@ body {
 
 .footcenter .social {
   padding-top: 7px;
+}
+
+#skills .quote {
+  border-left: 3px solid #a37acc;
 }
